@@ -10,7 +10,7 @@
         <maven.compiler.target>13</maven.compiler.target>
     </properties>
 
-    <groupId>com.lacroix.lacroixnet</groupId>
+    <groupId>com.psg.projectobjectboard</groupId>
     <artifactId>nucleus</artifactId>
     <version>1.0-SNAPSHOT</version>
 
